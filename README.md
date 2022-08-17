@@ -2,4 +2,4 @@
 
 
 
-## *** Please unzip survey_results_public.csv.zip in the project for the data set ** 
+## *** Please unzip survey_results_public.csv.zip in the project for the dataset ** 
