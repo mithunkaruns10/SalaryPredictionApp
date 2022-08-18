@@ -6,17 +6,17 @@ A web application that predicts the average salary in a particular country based
 
 # Steps to follow:
 
-1 First download the directory.
+1. First download the directory.
 
-2 Inside the directory path, create new environment by 
+2. Inside the directory path, create new environment by 
 
   ```conda create -n ml python=3.9```
 
-3 Activate that environment by
+3. Activate that environment by
 
   ```conda activate ml```
 
-4 Install all needed modules
+4. Install all needed modules
 
   ```pip install streamlit```
     
@@ -24,10 +24,10 @@ A web application that predicts the average salary in a particular country based
 
   ```pip install matplotlib scikit-learn```
 
-5 Install kernel for virtual environment
+5. Install kernel for virtual environment
 
   ```ipython kernel install --user --name=ml```
 
-6 Finally, run this command
+6. Finally, run this command
 
   ```streamlit run app.py```
