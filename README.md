@@ -2,7 +2,7 @@
 A web application that predicts the average salary in a particular country based on the educational qualifications and year of experience of an individual.
 # Note
 
-##### Please unzip survey_results_public.csv.zip in the project for the dataset 
+##### **** Please unzip survey_results_public.csv.zip in the project for the dataset *** 
 
 # Steps to follow:
 
