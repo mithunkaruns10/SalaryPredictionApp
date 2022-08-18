@@ -5,11 +5,11 @@
 *** Please unzip survey_results_public.csv.zip in the project for the dataset 
 
 # Steps to follow:
-_1) First download the directory.
+1) First download the directory.
 
 2) Inside the directory path, create new environment by 
 
-conda create -n ml python=3.9
+```conda create -n ml python=3.9```
 
 Activate that environment by
 conda activate ml
