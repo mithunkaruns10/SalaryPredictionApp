@@ -5,22 +5,27 @@
 *** Please unzip survey_results_public.csv.zip in the project for the dataset 
 
 # Steps to follow:
-1) First download the directory.
+-1 First download the directory.
+-2 Inside the directory path, create new environment by 
 
-2) Inside the directory path, create new environment by 
+    ```conda create -n ml python=3.9```
 
-```conda create -n ml python=3.9```
+-3 Activate that environment by
 
-Activate that environment by
-conda activate ml
+    ```conda activate ml```
 
-Install all needed modules
-pip install streamlit
-pip install numpy pandas
-pip install matplotlib scikit-learn
+-4 Install all needed modules
 
-Install kernel for virtual environment
-ipython kernel install --user --name=ml
+    ```pip install streamlit```
+    
+    ```pip install numpy pandas```
 
-At last run this command
-streamlit run app.py
+    ```pip install matplotlib scikit-learn```
+
+-5 Install kernel for virtual environment
+
+    ```ipython kernel install --user --name=ml```
+
+-6 Finally, run this command
+
+  ```streamlit run app.py```
