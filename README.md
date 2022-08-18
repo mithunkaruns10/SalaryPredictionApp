@@ -31,3 +31,9 @@ A web application that predicts the average salary in a particular country based
 6. Finally, run this command
 
   ```streamlit run app.py```
+  
+  # Group 7 - Members
+  
+  - Uditesh Jha
+  - Mithun Karun Suma
+  - Aravind Reddy Erri
