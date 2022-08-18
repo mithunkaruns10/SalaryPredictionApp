@@ -1,13 +1,14 @@
 # SalaryPredictionApp
 
 
+# Note
+*** Please unzip survey_results_public.csv.zip in the project for the dataset 
 
-## *** Please unzip survey_results_public.csv.zip in the project for the dataset ** 
+# Steps to follow:
+_1) First download the directory.
 
-Steps to follow:
-First download the directory.
+2) Inside the directory path, create new environment by 
 
-Inside the directory path, create new environment by 
 conda create -n ml python=3.9
 
 Activate that environment by
