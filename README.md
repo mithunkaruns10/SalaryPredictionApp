@@ -10,7 +10,7 @@ A web application that predicts the average salary in a particular country based
 
 2. Inside the directory path, create new environment by 
 
-  ```conda create -n ml python=3.9```
+  ``` conda create -n ml python=3.9 ```
 
 3. Activate that environment by
 
